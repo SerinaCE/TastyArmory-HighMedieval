@@ -35,7 +35,6 @@
       <!--Armor-->
 	<Operation Class="PatchOperationReplace">
 		<xpath>Defs/ThingDef[
-                  defName="TA_MailleVest" or
                   defName="TA_MailleHoses" or
                   defName="TA_MailleMittens"
 			]/statBases/StuffEffectMultiplierArmor</xpath>
