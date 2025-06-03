@@ -28,7 +28,7 @@
 			<Bulk MayRequire="CETeam.CombatExtended">2</Bulk>
 			<WornBulk MayRequire="CETeam.CombatExtended">0.5</WornBulk>
 			<Mass>1.4</Mass>
-			<StuffEffectMultiplierArmor>1.7</StuffEffectMultiplierArmor>
+			<StuffEffectMultiplierArmor>1.6</StuffEffectMultiplierArmor>
 			<EquipDelay>1</EquipDelay>
 		</statBases>
 		<thingCategories>
