@@ -3,7 +3,7 @@
 	<ThingDef ParentName="ArmorSmithableBase">
 		<defName>TA_KettleHat</defName>
 		<label>kettle hat</label>
-		<description>Simple steel helmet with a wide brim, protects face from overhead blows while leaving good visibility.</description>
+		<description>Simple steel helmet with a wide brim, protects from overhead blows while leaving good visibility.</description>
 		<graphicData>
 			<texPath>Apparel/Helmets/TA_KettleHat/TA_KettleHat_ico</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
