@@ -137,7 +137,7 @@
 		</statBases>
 		<equippedStatOffsets/>
 		<apparel>
-			<wornGraphicPath>Apparel/Helmets/A_NasalCombi/TA_NasalCombi</wornGraphicPath>
+			<wornGraphicPath>Apparel/Helmets/TA_NasalCombi/TA_NasalCombi</wornGraphicPath>
 			<bodyPartGroups>
 				<li>FullHead</li>
 			</bodyPartGroups>
