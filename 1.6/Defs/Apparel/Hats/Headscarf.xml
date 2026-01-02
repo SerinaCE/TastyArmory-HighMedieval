@@ -33,7 +33,7 @@
 			<li>Headgear</li>
 		</thingCategories>
 		<apparel>
-      <parentTagDef>ApparelHead</parentTagDef>
+			<parentTagDef>ApparelHead</parentTagDef>
 			<developmentalStageFilter>Child, Adult</developmentalStageFilter>
 			<bodyPartGroups>
 				<li>UpperHead</li>
@@ -41,7 +41,6 @@
 			<wornGraphicPath>Apparel/Hats/TA_Headscarf/TA_Headscarf</wornGraphicPath>
 			<layers>
 				<li>Overhead</li>
-				<li MayRequire="CETeam.CombatExtended">OnHead</li>
 			</layers>
 			<tags>
 				<li>Medieval</li>

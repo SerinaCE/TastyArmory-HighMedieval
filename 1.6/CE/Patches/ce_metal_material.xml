@@ -33,5 +33,15 @@
 		</value>
 	</Operation>
 
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/ThingDef[TA_Headscarf]/apparel/layers</xpath>
+		<value>
+      <layers>
+				<li>OnHead</li>
+			</layers>
+		</value>
+	</Operation>
+
+
       
 </Patch>
